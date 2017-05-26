@@ -1,0 +1,3 @@
+export REDSMIN_KEY=xxxxxx
+export REDIS_URI=redis://<local network ip>:6379
+export REDSMIN_SID=xxxxxx
